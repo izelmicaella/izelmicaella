@@ -23,3 +23,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_esteroliva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](izelmicaella@gmail.com)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=120&section=footer"/>
