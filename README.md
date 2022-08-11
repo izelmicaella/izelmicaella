@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=180&section=header&text=Micaella Izel Oliva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=180&section=header&text=Micaella Izel Oliva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Micaella+Izel+Oliva;I'm+25+years+old;I+live+in+Brasil,+RJ;I+study+Statistics+at+IBMR;I'm+also+studying+to+become+a+data+scientist+;i+love+data+and+analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
