@@ -5,8 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izelmicaella&layout=compact&hide_border=true&title_color=DB9F69&text_color=DB9F69&bg_color=0d1117" />
 </div>
 
-[![Micaella's github activity graph](https://activity-graph.herokuapp.com/graph?username=izelmicaella&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Studying in this moment:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
