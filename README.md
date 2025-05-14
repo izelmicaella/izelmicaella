@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=120"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Micaella+Izel+Oliva;I'm+27+years+old;I+live+in+Brasil,+RJ;I+study+Statistics+at+IBMR;I'm+also+studying+to+become+a+data+scientist+;i+love+data+and+analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Micaella+Izel+Oliva;I'm+28+years+old;I+live+in+Brasil,+RJ;I+study+Statistics+at+IBMR;I'm+also+studying+to+become+a+data+scientist+;i+love+data+and+analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=izelmicaella&show_icons=true&count_private=true&hide_border=true&title_color=DB9F69&icon_color=DB9F69&text_color=c9d1d9&bg_color=0d1117" alt="Micaella Izel Oliva github stats" /> 
@@ -9,10 +9,8 @@
 
 ### Improving my studies in:
 <div style="display: inline_block"><br/>
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="HTML" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-blue" />
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></div>
 
 
