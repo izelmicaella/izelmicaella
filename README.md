@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=120"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Micaella+Izel+Oliva;Estudante+de+Estatística+e+Futura+Data+Scientist;Tenho+28+anos,+resido+no+RJ,+Brasil;Apaixonada+por+dados+e+análise;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Micaella+Izel+Oliva;Estudante+de+Estatística+e+Analytics+Engineer+Junior;Tenho+28+anos,+resido+no+RJ,+Brasil;Apaixonada+por+dados+e+análise;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -10,8 +10,8 @@
 </div>
 
 ### Sobre mim
-- 🎓 Estudante de Estatística no IBMR  
-- 🚀 Aprimorando meus conhecimentos em Data Science e Data Engineer  
+- 🎓 Estudante de Estatística no IBMR (Oitavo período)  
+- 🚀 Aprimorando meus conhecimentos em Analytics Engineer (Atualmente Junior na função) 
 - 💡 Interesses: Deep Learning, Visualização de Dados, Big Data  
 - 🌱 Aprendendo: Python, SQL, R  
 
