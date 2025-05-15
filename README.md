@@ -8,9 +8,9 @@
 </div>
 
 #### Improving my studies in:
-<img align="right" alt="Python" src="https://img.shields.io/badge/Python-black" />
-<img align="right" alt="SQL" src="https://img.shields.io/badge/SQL-white" />
-<img align="right" alt="R" src="https://img.shields.io/badge/R-blue" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-black" />
+<img align="left" alt="SQL" src="https://img.shields.io/badge/SQL-white" />
+<img align="left" alt="R" src="https://img.shields.io/badge/R-blue" />
 
 
 #### You can reach me here:
