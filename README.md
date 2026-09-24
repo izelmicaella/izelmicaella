@@ -10,9 +10,9 @@
 </div>
 
 ### Sobre mim
-- 🎓 Estudante de Estatística no IBMR (Oitavo período)  
+- 🎓 Bacharel em Estatística
 - 🚀 Aprimorando meus conhecimentos em Analytics Engineer (Atualmente Junior na função) 
-- 💡 Interesses: Deep Learning, Visualização de Dados, Big Data e Inteligência Artificial
+- 💡 Interesses: Deep Learning, Machine Learning, Engenharia de Analytics, Big Data e Inteligência Artificial
 - 🌱 Evoluindo em: Python, SQL, R  
 
 ### Ferramentas e Tecnologias
