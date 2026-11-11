@@ -8,7 +8,7 @@
 - 🎓 Bacharel em Estatística
 - 🚀 Aprimorando meus conhecimentos em Analytics Engineer (Atualmente Pleno na função) 
 - 💡 Interesses: Deep Learning, Machine Learning, Engenharia de Analytics, Big Data e Inteligência Artificial
-- 🌱 Evoluindo em: Python, SQL, R  
+- 🌱 Evoluindo em: PySpark, KQL, DAX, Python, SQL 
 
 ### Ferramentas e Tecnologias
 <p>
