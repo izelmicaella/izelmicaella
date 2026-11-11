@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Micaella+Izel+Oliva;Estatística+e+Analytics+Engineer;Tenho+29+anos,+resido+no+RJ,+Brasil;Apaixonada+pelo+mundo+de+dados+e+IA;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=izelmicaella&show_icons=true&count_private=true&hide_border=true&title_color=DB9F69&icon_color=DB9F69&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izelmicaella&layout=compact&hide_border=true&title_color=DB9F69&text_color=DB9F69&bg_color=0d1117" alt="Linguagens mais usadas" />
-</div>
-
 ### Sobre mim
 - 🎓 Bacharel em Estatística
 - 🚀 Aprimorando meus conhecimentos em Analytics Engineer (Atualmente Pleno na função) 
