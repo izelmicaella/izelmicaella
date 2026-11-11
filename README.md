@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=120"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Micaella+Izel+Oliva;Estatística+e+Analytics+Engineer;Tenho+29+anos,+resido+no+RJ,+Brasil;Apaixonada+por+dados+IA+e+análises;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=DB9F69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Micaella+Izel+Oliva;Estatística+e+Analytics+Engineer;Tenho+29+anos,+resido+no+RJ,+Brasil;Apaixonada+pelo+mundo+de+dados+e+IA;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
